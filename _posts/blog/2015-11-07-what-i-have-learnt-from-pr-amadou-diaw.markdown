@@ -15,9 +15,6 @@ share: true
 date: 2015-11-07T23:41:59+08:00
 ---
 
-
-## Who is Pr. Amadou DIAW
-
 It was a beautiful Friday. I had decided the day before, to skip some classes to meet Professor Amadou DIAW. I knew nothing about him before I saw a [poster](https://www.facebook.com/HomewardPublishing/photos/a.197403758074.129427.176074983074/10153383112318075/?type=3&theater) announcing his speech in Taipei. My first impression was like "Oh! an African coming in Taiwan for a speech, I have to see that!!!” I thought that if someone can take a flight for just a mere speech then he must be someone very important. As a normal 2.0<sup>1</sup>, I did a quick search on the web and this is what I found: Pr. Amadou DIAW is from Senegal. He studied in France, Germany and the United States. After a work experience, he went back to Senegal, held important functions and finally decided to contribute in improving the education system in his country. He then started "Institut Superieur de Management" abbreviated as ISM literary in English (Graduate Institute of Management) in 1992. It is the first private Business School in West Africa. He is well known for bringing and promoting entrepreneurship into the Senegalese education system.
 
 ## How I met Amadou DIAW
