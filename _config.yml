@@ -34,9 +34,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Amon M. R. BAZONGO
-  avatar: bio-photo.png
+  avatar: bio-photo.jpg
   email: amonmoce@gmail.com
-  disqus-shortname:
+  disqus-shortname: amonwebsite
   twitter: amonmoce #username
   facebook: amonmoce #username
   github: amonmoce #username
