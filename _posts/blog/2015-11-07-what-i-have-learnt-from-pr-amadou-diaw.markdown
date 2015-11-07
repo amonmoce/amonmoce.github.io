@@ -29,14 +29,15 @@ The professor gave me an assignment: "Take this paper and draw the map of the wo
 For Pr. DIAW, we young people have a different mentality, compared to them. He met so many young people who want to do things by themselves, who put humanity (human being) in the center of their actions and for who money is not the only objective. Idrissa Mbengue added "this is exactly PPP", Pr. DIAW ended "yes, exactly People, Planet, Profit". To tell the truth, I really did not know what it means until a search on the web. It is actually an idea describing the [3 Bottom Lines concept](https://en.wikipedia.org/wiki/Triple_bottom_line) coined by [John Elkington](https://en.wikipedia.org/wiki/John_Elkington_%28business_author%29).
 Amadou DIAW looked impressed by WowAfrica crew (Weichen and Pepe told him they are going to Ethiopia in the following days) and by Homeward Publishing crew (especially TzuHua, a very nice lady) who managed to publish the mandarin version of up to 5 African novels.
 He was so impressed that he wanted me to translate in mandarin his short last word, "[...] I came, I saw open-minded young people and I am not worried about the future [...]".
+
 <figure class="third">
 	<img src="/images/diaw-mbengue.jpg" alt="image">
 	<img src="/images/diaw-speech.jpg" alt="image">
   <img src="/images/diaw.jpg" alt="image">
-	<figcaption>Amadou Diaw, Idrissa Mbengue and 邱大環(Qiu Da-Huan) </figcaption>
+	<figcaption> Amadou Diaw, Idrissa Mbengue and Qiu Da-Huan </figcaption>
 </figure>
 
-## Culture is at the beginning and the end of development
+## Culture is at the beginning and at the end of development
 After the lunch, the guests went to take a rest (they came from the airport directly to the restaurant). 7pm was the time of the speech at National Taiwan Normal University (NTUT). It was about Literature and Culture in Senegal. He talked about the most famous personalities of Senegal and African-descent World, [Leopold Sedar Senghor](https://en.wikipedia.org/wiki/L%C3%A9opold_S%C3%A9dar_Senghor), [Aime Cesaire](https://en.wikipedia.org/wiki/Aim%C3%A9_C%C3%A9saire), [Leon Damas](https://en.wikipedia.org/wiki/L%C3%A9on_Damas), [Birago Diop](https://en.wikipedia.org/wiki/Birago_Diop), [Cheick Anta Diop](https://en.wikipedia.org/wiki/Cheikh_Anta_Diop), etc. Something really important for me, was the importance of culture for those great African minds. "Culture is at the beginning and at the end of development", this is what Senghor believed. But his notion of culture was too influenced by French culture. When Pr DIAW called me on the stage, wanting me to ask a question, which was about Cheick Anta Diop, we ended up talking about [Thomas Sankara](https://en.wikipedia.org/wiki/Thomas_Sankara) from Burkina Faso who had a very different notion of culture, even if he also believed that culture is the most important element in the development of a nation. Being on the stage with Pr DIAW and talking about Anta Diop and Sankara ... it's unforgettable.
 Pr DIAW talked about the impact of Senegal's cultural policy in the world, and showed how important it is to be able to promote a country and its culture. It made me think about a term I heard once, "the marketing of the nations", a concept I wish African Leaders could develop, regarding its importance for our nations.
 
