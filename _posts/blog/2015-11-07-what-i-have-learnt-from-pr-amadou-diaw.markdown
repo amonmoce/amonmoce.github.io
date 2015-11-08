@@ -3,8 +3,9 @@ layout: post
 title: "What I have learnt from Pr. Amadou DIAW"
 modified:
 categories: blog
-excerpt:
+excerpt: "Pr Amadou DIAW came in Taiwan this Friday 6th november for a speech about literature and culture in Senegal ... I had the chance to meet him"
 tags:
+fb-image: me-diaw2.jpg
 author: amonmoce
 image:
   feature:
