@@ -49,7 +49,7 @@ Part-Time Reporter Feb.2009 – Oct-2009
 
 ##Leadership & Associative life
 - Speaker at Consequentiam Conference, Taiwan, Embassy District Offices, (Topic: Education for all via technology), December.2015
-- Afrik Eveil Foundation Web Manager ([afrikeveil.org](afrikeveil.org)), Jun.2015 - Present
+- Afrik Eveil Foundation Web Manager ([afrikeveil.org](http://afrikeveil.org)), Jun.2015 - Present
 - Secretary General of Burkina Faso Students in Taiwan Association, Taiwan Term Jul.2014 –  Jul.2015
 - Speaker at Consequentiam Conference, Taiwan, National Tsing Hua University, (Topic: L’Afrique dans l’Histoire des Sciences - Africa in the History of Science), April.2014
 - President of Burkina Faso Students in Taiwan Association, Taiwan Term Jan.2013 – Jun. 2013
@@ -59,9 +59,9 @@ Part-Time Reporter Feb.2009 – Oct-2009
 
 ## Entrepreneurship
 - Co-acquired Panda Store (online and social small reseller business), Taiwan, May.2015 - Present
-- Launched [caya.tw](caya.tw) (online platform for internationals in Taiwan to check their winning invoice numbers), Taiwan, May.2015
+- Launched [caya.tw](http://caya.tw) (online platform for internationals in Taiwan to check their winning invoice numbers), Taiwan, May.2015
 - Started Doofoot (online betting platform for the World Cup), Jun.2014 — Jul.2014
-- Co-Started [zakafrica.com](zakafrica.com) (online platform for finding a house in Burkina Faso and Ghana), Sept.2013 - Present
+- Co-Started [zakafrica.com](http://zakafrica.com) (online platform for finding a house in Burkina Faso and Ghana), Sept.2013 - Present
 - Co-Founder and President of COCA (Committee of Carré d’As Game Organisation), Burkina Faso Term Oct. 2009 - Jul 2010
 
 ##Languages & Culture Experience
