@@ -47,29 +47,34 @@ Full-Time WIMAX Agent Oct.2010 – Dec.2010
 Part-Time Reporter and Official Manager for the West Region Oct.2009 – May. 2010
 Part-Time Reporter Feb.2009 – Oct-2009
 
-##Leadership & Entrepreneurship
-- Harambe Burkina Eveil Web Manager, Jun.2015 - Present
-- Co-acquired Panda Store (online small reseller business), Taiwan, May.2015 - Present
+##Leadership & Associative life
+- Speaker at Consequentiam Conference, Taiwan, Embassy District Offices, (Topic: Education for all via technology), December.2015
+- Fondation Burkina Eveil Web Manager, Jun.2015 - Present
 - Secretary General of Burkina Faso Students in Taiwan Association, Taiwan Term Jul.2014 –  Jul.2015
-- Started Doofoot.com (online betting platform for the World Cup), Jun.2014 — Jul.2014
-- Speaker at Consequentiam Conference, Taiwan, National Tsing Hua University, (Topic: L’Afrique dans l’Histoire des Sciences - Africa in the History of Science) May.2014
+- Speaker at Consequentiam Conference, Taiwan, National Tsing Hua University, (Topic: L’Afrique dans l’Histoire des Sciences - Africa in the History of Science), April.2014
 - President of Burkina Faso Students in Taiwan Association, Taiwan Term Jan.2013 – Jun. 2013
-Member at Fu Jen University Toastmaster Club, Taiwan Sept.2011 - Aug.2012
+- Member at Fu Jen University Toastmaster Club, Taiwan Sept.2011 - Aug.2012
 - Proteus Trainer at Technoclub (Students Club in Bobo-Dioulasso) 1st semester 2011
-- Co-Founder and President of COCA (Committee of Carré d’As Game Organisation), Burkina Faso Term Oct. 2009 - Jul 2010
 - Active member at Entrepreneurs Students Club, Burkina Faso Oct.2008 – Jul.2009
+
+## Entrepreneurship
+- Co-acquired Panda Store (online and social small reseller business), Taiwan, May.2015 - Present
+- Launched caya.tw (online platform for internationals in Taiwan to check their winning invoice numbers), Taiwan, May.2015
+- Started Doofoot (online betting platform for the World Cup), Jun.2014 — Jul.2014
+- Co-Started zakafrica.com (online platform for finding a house in Burkina Faso and Ghana), Sept.2013 - Present
+- Co-Founder and President of COCA (Committee of Carré d’As Game Organisation), Burkina Faso Term Oct. 2009 - Jul 2010
 
 ##Languages & Culture Experience
 - French: Native speaker
-- English: TOEIC 810/990 in Feb 2012
-- Mandarin Chinese: TOCFL Level 3 (Intermediate) in May 2012
+- English: IELTS November 2015 (Oveall score: 7.5)
+- Mandarin Chinese: Good (Chinese proficiency as a foreign language, level 3, Intermediate obtained in May 2012)
 - Moore & Dyula: Fairly well
 - Travels: Visited many Asian and African countries (China, Thailand, Viet Nam, Singapore, Ghana, …) and planning more.
 
 ##Interests
 - Philosophy, History
 - Entrepreneurship, Leadership, Education
-- Software development
+- Software development(Open Source, Social Coding)
 - Culture and Travels
 - Music & Movies: Relaxing, Enjoying, Enriching
 - Reading: Another way of travelling
