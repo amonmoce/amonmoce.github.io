@@ -9,7 +9,7 @@ Studying Computer Science at National Chiao Tung University,
 1001 University Rd., Hsinchu City, Taiwan, 300, R.O.C.<br>
 Cel.: +886-98-9597235, Email: amonmoce@gmail.com, Website: amonmoce.net
 
-##Education
+## Education
 - NATIONAL TSING HUA UNIVERSITY,
 Taiwan, Hsinchu, Sept. 2014 - Current<br>
 Institute of Service Science Certificate in Service Oriented Information Technology
@@ -29,16 +29,16 @@ Major: Associate degree in Electronic and Electrical Engineering
 Burkina Faso, Ouagadougou, Oct.2005 – Aug.2008<br>
 High School in Mathematics and Physics (with Baccalaureat serie C as French equivalent high school diploma)
 
-##Awards
+## Awards
 - Burkina Faso National Scholarship, Oct.2008
 - Taiwan Government Scholarship,  Aug.2011
 
-##Skills
+## Skills
 - Programming languages: C/C++, Ruby, Python, PHP, Javascript, Android (a bit of Java)
 - Web Development: Sinatra Framework, NodeJS (Express framework), ReactJS (with Flux and Redux architectures), Amazon Web Services (DynamoDB, Pub/Sub), Agile Development
 - Video, Audio, Image Editing: Adobe’s Premiere Pro, After Effect, Audition, Photoshop, Illustrator (Learner level)
 
-##Work Experience
+## Work Experience
 - GLOSSIKA, Taiwan, Taipei
 Programmer (Two months Intern) Jul.2015 – Aug.2015
 - CONNECTEO (Burkina Faso Branch), Burkina Faso, Ouagadougou
@@ -47,7 +47,7 @@ Full-Time WIMAX Agent Oct.2010 – Dec.2010
 Part-Time Reporter and Official Manager for the West Region Oct.2009 – May. 2010
 Part-Time Reporter Feb.2009 – Oct-2009
 
-##Leadership & Associative life
+## Leadership & Associative life
 - Speaker at Consequentiam Conference, Taiwan, Embassy District Offices, (Topic: Education for all via technology), December.2015
 - Afrik Eveil Foundation Web Manager ([afrikeveil.org](http://afrikeveil.org)), Jun.2015 - Present
 - Secretary General of Burkina Faso Students in Taiwan Association, Taiwan Term Jul.2014 –  Jul.2015
@@ -64,14 +64,14 @@ Part-Time Reporter Feb.2009 – Oct-2009
 - Co-Started [zakafrica.com](http://zakafrica.com) (online platform for finding a house in Burkina Faso and Ghana), Sept.2013 - Present
 - Co-Founder and President of COCA (Committee of Carré d’As Game Organisation), Burkina Faso Term Oct. 2009 - Jul 2010
 
-##Languages & Culture Experience
+## Languages & Culture Experience
 - French: Native speaker
 - English: IELTS November 2015 (Oveall score: 7.5)
 - Mandarin Chinese: Good (Chinese proficiency as a foreign language, level 3, Intermediate obtained in May 2012)
 - Moore & Dyula: Fairly well
 - Travels: Visited many Asian and African countries (China, Thailand, Viet Nam, Singapore, Ghana, …) and planning more.
 
-##Interests
+## Interests
 - Philosophy, History
 - Entrepreneurship, Leadership, Education
 - Software development(Open Source, Social Coding)
