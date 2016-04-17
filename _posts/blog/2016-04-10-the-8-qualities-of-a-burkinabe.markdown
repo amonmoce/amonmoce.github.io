@@ -7,7 +7,7 @@ author: amonmoce
 excerpt: "Some interesting facts about the Burkinabe way of life"
 comments: true
 share: true
-tags: []
+tags: ['Burkinabe', '8 qualities', 'Thomas Sankara', 'way of life', 'Burkina Faso']
 image:
   feature:
 date: 2016-04-10T19:03:22+08:00
