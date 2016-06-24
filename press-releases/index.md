@@ -5,6 +5,8 @@ excerpt: ""
 
 ---
 
+### Consequentiam Leadership Program [Promotion video](https://www.youtube.com/watch?v=Mz3sdy8cFnA&feature=youtu.be)
+
 ### Interview of Issouf OUATTARA about CONSEQUENTIAM in [Burkina 24 in french](http://www.burkina24.com/2015/11/06/issouf-ouattara-etudiant-burkinabe-a-taiwan-nous-pouvons-construire-ces-drones-au-niveau-local/)
 
 ### Associative achievement mentionned in [Burkina 24 in french](http://www.burkina24.com/2015/02/25/diaspora-laesbt-devient-lassociation-des-burkinabe-de-taiwan/)
