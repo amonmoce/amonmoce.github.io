@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "#BlackLivesMatter, why in the middle of 2016 we still have to shout it loud?"
+date: 2016-07-14T09:53:59+08:00
 categories: blog
 author: amonmoce
 comments: true
@@ -9,7 +10,6 @@ tags:
 image:
   feature:
 excerpt: "Black lives are in danger everywhere in the world. Let's get united and fight together."
-date: 2016-07-14T09:53:59+08:00
 ---
 
 
