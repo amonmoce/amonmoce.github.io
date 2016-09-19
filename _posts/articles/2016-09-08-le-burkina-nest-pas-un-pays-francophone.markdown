@@ -36,3 +36,6 @@ Une lingua franca est une langue qui est parle et comprise par des populations q
 
 ## Nous sommes responsables de ce qui va arriver demain
 Nous sommes Africains, nous devons etre fier de nous meme, de nos traditions et cela passe aussi par la langue. Nos langues sont encore vivantes. Bien plus vivantes que certains ne le pensent. Si nous negligeont nos langues, nous negligeons du meme coup notre diversite et notre richesse culturelle. Nous nous negligeons nous-meme aussi. Nous pouvons parcontre utiliser nos langues pour contruire nos societes de demain. Le burkindlim par exemple est un ensemble de valeurs que tous Burkinabe devraient connaitre, il en est de meme pour le pulaaku. Pourtant il ya aucune traduction de ces termes en francais. C'est aux Burkinabe d'utiliser leurs langues, de comprendre leurs concepts et de les vivre. C'est comme ca que l'on met en place les fondements de societes modernes.
+
+
+Publié sur [Burkina 24](http://www.burkina24.com/2016/09/02/chronique-de-raakedo-le-burkina-nest-pas-un-pays-francophone/)
