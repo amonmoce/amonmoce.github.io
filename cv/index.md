@@ -3,11 +3,13 @@ layout: page
 title: Curriculum Vitae
 
 ---
-
-Amon Moce Rodolphe BAZONGO<br>
-Studying Computer Science at National Chiao Tung University,
-1001 University Rd., Hsinchu City, Taiwan, 300, R.O.C.<br>
+<div style="text-align: justify">
+Amon Moce Rodolphe BAZONGO <br/>
+Studying Computer Science at National Chiao Tung University, <br/>
+1001 University Rd., Hsinchu City, Taiwan, 300, R.O.C.<br/>
 Cel.: +886-98-9597235, Email: amonmoce@gmail.com, Website: amonmoce.net
+</div>
+
 
 ## Education
 - NATIONAL TSING HUA UNIVERSITY,
