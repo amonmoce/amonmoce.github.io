@@ -31,10 +31,6 @@ Major: Associate degree in Electronic and Electrical Engineering
 Burkina Faso, Ouagadougou, Oct.2005 – Aug.2008<br>
 High School in Mathematics and Physics (with Baccalaureat serie C as French equivalent high school diploma)
 
-## Awards
-- Burkina Faso National Scholarship, Oct.2008
-- Taiwan Government Scholarship,  Aug.2011
-
 ## Skills
 - Programming languages: C/C++, Ruby, Python, PHP, Javascript, Android (a bit of Java)
 - Web Development: Sinatra Framework, NodeJS (Express framework), ReactJS (with Flux and Redux architectures), Amazon Web Services (DynamoDB, Pub/Sub), Agile Development
