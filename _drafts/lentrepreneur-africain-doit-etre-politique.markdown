@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "L'entrepreneur africain doit être politique"
+excerpt:"Faire le choix entre être à la mode et réellement contribuer à l'avancée du continent"
 comments: true
-excerpt: "L'entrepreneur africain et la politique. Cela devrait être normal."
 share: true
 categories: articles
-date: 2016-11-02T11:45:08+08:00
+date: 2016-11-02T11:19:51+08:00
 ---
 
 L'entrepreneur Africain changera-t-il l'Afrique? Si l'on arrive à créer une nouvelle race d'entrepreneurs, ma réponse est clairement OUI. Le type d'entrepreneurs que l'on a en Afrique ne changera pas le continent et le chroniqueur Hamidou Anne du Monde Afrique insiste sur ce fait. Quant à moi, je me donne le droit de penser que l'entreprenariat doit aller avec la politique. Si l'entrepreneur s'éloigne un peu de son cote économique pour se rapprocher d'une sorte de militantisme, il est certain que l'impact qu'il aura sera plus grand.
@@ -25,5 +25,3 @@ Plus que le problème à résoudre, plus que l'argent à gagner, la cause à dé
 
 ## Tous ensemble avec les entrepreneurs
 Des entrepreneurs d'une nouvelle race changerons l'Afrique. Mais cela se fera avec l'aide des autres. Ces autres qui vont consommer les biens et services des leurs qui les produisent. Chacun de nous est un "business angel" et chaque maison, chaque école, chaque grin est un "incubateur". En réalité, c'est tous ensemble que l'on va changer les choses, c'est tous ensemble que l'on va mettre en place un modele économique et social propre à l'Afrique.
-
-Publié sur [Burkina 24](http://www.burkina24.com/2016/10/21/chronique-de-raakedo-lentrepreneur-africain-doit-etre-politique/)
