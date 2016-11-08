@@ -34,13 +34,16 @@ Some businesses start with money investment only(it can also happen, you know?).
 ```
 Individual share = (Individual money/ Total money) x 100
 ```
+
 So, if a 100000 Naira business starts with 4 people and one of them is you investing 20000 Naira, your share is like (20000/100000) X 100 which is 20% of the business. Happy ?
 
 But most of the business start with time and money investment. SO here is what I propose:
+
 ```
 Individual share = (Founder level/Total of levels + Individual money/Total money) x 50
 ```
 In this case, Raogo, Wendy and Wassirey, will all have different shares, knowing that Raogo and Wendy levels are 2 each and Wassirey's is 1, and that Wendy put 10000 Naira on the table:
+
 ```
   Raogo share = (2/5 + 0/10000) x 50 = 20%
 ```
@@ -50,6 +53,7 @@ In this case, Raogo, Wendy and Wassirey, will all have different shares, knowing
 ```
   Wassirey share = (1/5 + 0/10000) x 50 = 10%
 ```
+
 Looks fair, right? Now, let's suppose, the Oga wants to add 100000 Naira and join the owners as an investor (better than going at a bank). The share would have to be re-calculated like this:
 ```
   Raogo share = (2/5 + 0/110000) x 50 = 20%
@@ -63,6 +67,7 @@ Looks fair, right? Now, let's suppose, the Oga wants to add 100000 Naira and joi
 ```
   the Oga share = (0/5 + 100000/110000) x 50 = 45.46%
 ```
+
 Okay. Let's admit that the Oga came in business really fast. But it's still fair right? Bringing 100000 Naira in a business is a something that can boost it. And in this way, the original founders are protected from losing their business. They can sell their share if they want, but nothing will happen if they want it. Any new investor will share with the other investors, and any new founder will share with the other founders. This is what I propose.
 
 ## What do you think now?
