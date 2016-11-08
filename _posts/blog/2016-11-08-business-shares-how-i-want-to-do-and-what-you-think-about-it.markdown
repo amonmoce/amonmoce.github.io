@@ -43,14 +43,24 @@ Individual share = (Founder level/Total of levels + Individual money/Total money
 In this case, Raogo, Wendy and Wassirey, will all have different shares, knowing that Raogo and Wendy levels are 2 each and Wassirey's is 1, and that Wendy put 10000 Naira on the table:
 ```
   Raogo share = (2/5 + 0/10000) x 50 = 20%
+```
+```
   Wendy share = (2/5 + 10000/10000) x 50 = 70%
+```
+```
   Wassirey share = (1/5 + 0/10000) x 50 = 10%
 ```
 Looks fair, right? Now, let's suppose, the Oga wants to add 100000 Naira and join the owners as an investor (better than going at a bank). The share would have to be re-calculated like this:
 ```
   Raogo share = (2/5 + 0/110000) x 50 = 20%
+```
+```
   Wendy share = (2/5 + 10000/110000) x 50 = 24.54%
+```
+```
   Wassirey share = (1/5 + 0/110000) x 50 =  10%
+```
+```
   the Oga share = (0/5 + 100000/110000) x 50 = 45.46%
 ```
 Okay. Let's admit that the Oga came in business really fast. But it's still fair right? Bringing 100000 Naira in a business is a something that can boost it. And in this way, the original founders are protected from losing their business. They can sell their share if they want, but nothing will happen if they want it. Any new investor will share with the other investors, and any new founder will share with the other founders. This is what I propose.
