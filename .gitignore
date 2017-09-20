@@ -1,9 +1,10 @@
-_site
-.DS_Store
 *.sublime-project
 *.sublime-workspace
-codekit-config.json
-node_modules
-.sass-cache
-._*
+.DS_Store
 .jekyll-metadata
+.sass-cache
+_site
+codekit-config.json
+Gemfile.lock
+node_modules
+._*
