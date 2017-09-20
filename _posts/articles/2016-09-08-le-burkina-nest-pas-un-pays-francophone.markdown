@@ -9,7 +9,7 @@ share: true
 image:
   feature:
 date: 2016-09-08T13:56:44+08:00
-modified: 2017-09-08T12:36:47+08:00
+modified: 2017-09-20T21:41:35+08:00
 ---
 
 Voici une affirmation qui peut choquer plus d'un, je l'avoue. Et pourtant, le Burkina n'est belle et bien pas un pays francophone. Dire le contraire, ce serait éliminer la majorité de la population Burkinabé, n'offrir aucun outil à cette majorité pour leur permettre de contribuer à la construction d'une société moderne et faciliter avec joie la disparition de nos langues locales. C’est ce que nos different gouvernements ont malheureusement fait depuis 1960, à l’exception de celui du CNR qui a réellement tenté de redonner à nos langues un souffle nouveau, mais on connait la suite.
