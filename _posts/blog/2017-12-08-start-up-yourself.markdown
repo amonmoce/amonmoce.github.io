@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Start Up Yourself
 categories: blog
 excerpt: "For the Consequentiam Innovation Forum 2017, I wanted to share my little story on my Entrepreneurship journey"
@@ -20,7 +21,7 @@ In order to be rich, I decided to do business, not entrepreneurship. I believe t
 ## The Taiwanese Investors Funnel   
 I live in Taiwan currently. And as an African "fool" of ideas, I used to believe that I can meet an angel who can fund my projects. Yes there are some angels in Taiwan. But either you are Taiwanese, either you are in an ecosystem which already protect the investor (professional investor). Most of the projects I have (actually all), are for the African continent. In my little experience of meeting investors in Taiwan, I saw there are 4 stages they have to overcome before they can accept to accompany you.
 
-## The first stage: Awereness
+## The first stage: Awareness
 The 1st stage, for most of them, is for those who don't know Africa. For them, the western world (歐美 O-Mei) is the place for business and Africa is filled by the desert, the forest, a lot of animals and few naked indigenous playing with Lion pets. Believe me, I met some who told me "my dream is to go to Africa to see a giraffe". Those Taiwanese match with the general idea people have about Africa. Luckily, my friends Weichen and Pepe, are doing their best to clear those misconceptions about it, with their [wowAfrica](https://wowafrica.tw/).
 
 ## The second stage: Interest
