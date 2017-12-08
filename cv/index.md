@@ -5,19 +5,20 @@ title: Curriculum Vitae
 ---
 <div style="text-align: justify">
 Amon Moce Rodolphe BAZONGO <br/>
-Studying Computer Science at National Chiao Tung University, <br/>
-1001 University Rd., Hsinchu City, Taiwan, 300, R.O.C.<br/>
-Cel.: +886-98-9597235, Email: amonmoce@gmail.com, Website: amonmoce.net
+CEO at Yanfoma, <br/>
+Cel.: +886-98-9597235, Email: amonmoce@gmail.com, Website: http://amonbazongo.me
 </div>
 
 
 ## Education
-- NATIONAL TSING HUA UNIVERSITY,
-Taiwan, Hsinchu, Sept. 2014 - Current<br>
-Institute of Service Science Certificate in Service Oriented Information Technology
+- SOOCHOW UNIVERSITY, Taiwan, New Taipei, Sept. 2017 - Current<br>
+Major: Master degree Big Data Management
 - NATIONAL CHIAO TUNG UNIVERSITY,
-Taiwan, Hsinchu, Sept. 2012 - Current<br>
+Taiwan, Hsinchu, Sept. 2012 - Jul. 2017<br>
 Major: Bachelor degree in Computer Science
+- NATIONAL TSING HUA UNIVERSITY,
+Taiwan, Hsinchu, Sept. 2014 - Jul. 2016<br>
+Institute of Service Science Certificate in Service Oriented Information Technology
 - FU JEN CATHOLIC UNIVERSITY,
 Taiwan, New-Taipei, Sept.2011 - Aug.2012<br>
 Language Center for learning Chinese Language
@@ -31,12 +32,21 @@ Major: Associate degree in Electronic and Electrical Engineering
 Burkina Faso, Ouagadougou, Oct.2005 – Aug.2008<br>
 High School in Mathematics and Physics (with Baccalaureat serie C as French equivalent high school diploma)
 
-## Skills
-- Programming languages: C/C++, Ruby, Python, PHP, Javascript, Android (a bit of Java)
-- Web Development: Sinatra Framework, NodeJS (Express framework), ReactJS (with Flux and Redux architectures), Amazon Web Services (DynamoDB, Pub/Sub), Agile Development
-- Video, Audio, Image Editing: Adobe’s Premiere Pro, After Effect, Audition, Photoshop, Illustrator (Learner level)
+## Entrepreneurship
+- Co-Founder and CEO at Yanfoma [yanfoma.tech](https://yanfoma.tech)
+- Co-acquired Panda Store (online and social small reseller business), Taiwan, May.2015 - Present
+- Co-Started [zakafrica.com](http://zakafrica.com) (online platform for finding a house in Burkina Faso and Ghana), Sept.2013 - Present
+- Launched caya.tw (online platform for internationals in Taiwan to check their winning invoice numbers), Taiwan, May.2015
+- Started Doofoot (online betting platform for the World Cup), Jun.2014 — Jul.2014
+- Co-Founder and President of COCA (Committee of Carré d’As Game Organisation), Burkina Faso Term Oct. 2009 - Jul 2010
 
 ## Work Experience
+- aPure functional fiber (ecommerce), Taiwan, new Taipei
+Software Enginner Jul.2017 – Current
+- Good Services Co., Taiwan, Taipei
+Backend Developer Dec.2016 – Jul.2017
+- Opti-Solar, Taiwan, New Taipei
+Part-time Marketing Intern Jun.2016 – Dec.2016
 - GLOSSIKA, Taiwan, Taipei
 Programmer (Two months Intern) Jul.2015 – Aug.2015
 - CONNECTEO (Burkina Faso Branch), Burkina Faso, Ouagadougou
@@ -55,13 +65,6 @@ Part-Time Reporter Feb.2009 – Oct-2009
 - Member at Fu Jen University Toastmaster Club, Taiwan Sept.2011 - Aug.2012
 - Proteus Trainer at Technoclub (Students Club in Bobo-Dioulasso) 1st semester 2011
 - Active member at Entrepreneurs Students Club, Burkina Faso Oct.2008 – Jul.2009
-
-## Entrepreneurship
-- Co-acquired Panda Store (online and social small reseller business), Taiwan, May.2015 - Present
-- Co-Started [zakafrica.com](http://zakafrica.com) (online platform for finding a house in Burkina Faso and Ghana), Sept.2013 - Present
-- Launched caya.tw (online platform for internationals in Taiwan to check their winning invoice numbers), Taiwan, May.2015
-- Started Doofoot (online betting platform for the World Cup), Jun.2014 — Jul.2014
-- Co-Founder and President of COCA (Committee of Carré d’As Game Organisation), Burkina Faso Term Oct. 2009 - Jul 2010
 
 ## Languages & Culture Experience
 - French: Native speaker
