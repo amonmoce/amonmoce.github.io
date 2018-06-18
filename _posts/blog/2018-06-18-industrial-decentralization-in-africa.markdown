@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Industrial decentralization in Africa: the next technological leapfrog
+title: Industrial decentralization in Africa, the next technological leapfrog
 categories: blog
 excerpt: "This piece I wrote was in competition for the Africa of my Dreams contest by the African Bank of Development. I choose the topic related to blockchain technology"
 author: amonmoce
