@@ -4,7 +4,7 @@ title: "The Last Victory of Samori Ture"
 modified:
 categories: blog
 excerpt: "What happened between Samori Ture, Guimbi Ouattara and Tiefo Amoro; a Game-of-Thrones-like story in the middle of West Africa"
-tags: []
+tags: ['samori ture', 'bori samori', 'guimbi ouattara', 'tiefo amoro']
 comments: true
 share: true
 image:
