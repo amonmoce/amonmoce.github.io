@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "The 8 Qualities of a Burkinabe"
-modified:
-categories: blog
+modified: 
+categories: top
 author: amonmoce
 excerpt: "Some interesting facts about the Burkinabe way of life"
 comments: true

@@ -9,7 +9,7 @@ url: https://amonmoce.github.io
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   /:title/
 markdown:    kramdown
 highlighter: rouge
 sass:
@@ -36,13 +36,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Amon M. R. BAZONGO
+  name: Amon BAZONGO
   avatar: bio-photo.jpg
   email: amonmoce@gmail.com
   disqus-shortname: amonwebsite
   twitter: amonmoce #username
   facebook: amonmoce #username
-  github: amonmoce #username
+  github:  #username
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username

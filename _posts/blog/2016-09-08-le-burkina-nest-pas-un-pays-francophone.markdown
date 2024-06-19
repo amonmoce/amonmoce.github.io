@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Le Burkina n'est pas un pays francophone"
-categories: articles
+categories: top
 excerpt: "Il est temps de donner de la place aux langues africaines. Il en va de notre existence culturelle et sociale. Et cette place devrait être la première."
 tags: []
 comments: true
